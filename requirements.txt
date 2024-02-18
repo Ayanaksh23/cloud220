@@ -1,7 +1,5 @@
-supabase
-pandas
-requests
-streamlit
-schedule
-ssl
-smtplib
+pandas==2.2.0
+Requests==2.31.0
+schedule==1.2.1
+streamlit==1.30.0
+supabase==2.3.5
